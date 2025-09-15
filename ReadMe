@@ -1,0 +1,17 @@
+# CIFAR-10 CNN Classification
+
+Objective: Build and train a Convolutional Neural Network to classify images from the CIFAR-10 dataset.
+
+Deliverables:
+- Jupyter notebook with code
+- Model architecture (in notebook)
+- Accuracy & loss graphs
+- Confusion matrix
+- Saved model file (cifar10_cnn.h5)
+
+How to run:
+1. Create and activate venv: `python -m venv venv` then `venv\Scripts\activate`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Create a Jupyter kernel for the venv (instructions in notebook)
+4. Launch Jupyter: `jupyter lab`
+5. Open and run `cifar10_cnn.ipynb`
